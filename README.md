@@ -29,7 +29,7 @@ seaborn
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Кроки виконання
 
 1. **Завантаження даних**
